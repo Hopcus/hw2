@@ -1,0 +1,2 @@
+class Acotr < ApplicationRecord
+end
